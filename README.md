@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Eric X. Sun, a dog cadet, have nothing to say.
+I'm QinLuo, a dog cadet, have nothing to say.
 
 <div>
     <img height="165" align="left" src="https://github-readme-stats.vercel.app/api?username=ericxsun&theme=calm&show_icons=true" />
