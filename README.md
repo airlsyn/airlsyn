@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm airlsyn, a dog cadet, have nothing to say.
+I'm airlsyn.
 
 <div>
     <img height="165" align="left" src="https://github-readme-stats.vercel.app/api?username=airlsyn&theme=calm&show_icons=true" />
